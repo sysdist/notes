@@ -5,5 +5,5 @@ It's also just my general braindump.
 Feel free to use as you will, share, like, dislike, comment or whatever.
 
 ## File links:
-[Node.js Sequelize](https://github.com/sysdist/notes/blob/master/node-sequelize-cheat-sheet.md)
-[Node.js Sequelize2](node-sequelize-cheat-sheet.md)
+* [Node.js Sequelize](node-sequelize-cheat-sheet.md)
+* more to come
