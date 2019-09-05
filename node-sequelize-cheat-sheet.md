@@ -1,4 +1,4 @@
-##Sequelize notes - ORM for Sqlite3, PostgreSql, MySQL and other
+## Sequelize notes - ORM for Sqlite3, PostgreSql, MySQL and other
 
 Install node packages:
 ```bash
