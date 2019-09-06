@@ -26,6 +26,11 @@ CREATE TABLE `Contacts` (`id` INTEGER PRIMARY KEY AUTOINCREMENT, `firstName` VAR
 CREATE TABLE sqlite_sequence(name,seq);
 ```
 
+Migrate the db:
+```bash
+node_modules/.bin/sequelize db:migrate
+```
+
 Seed the db:
 ```bash
 node_modules/.bin/sequelize db:seed:all
